@@ -1,0 +1,9 @@
+MVP:
+-   List of commits with user data
+-   Branches
+-   Lines for branches
+-   Pull
+-   Fetch
+-   Merge
+-   Push
+-   Changes
